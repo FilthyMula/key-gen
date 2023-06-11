@@ -1,4 +1,4 @@
-Key generator
+Advanced GUI key generator
 
-pip install pyperclip
-pip install tkinter
+working but custom key configuration must be done manually,
+working on auto json dumps without needing to restart
